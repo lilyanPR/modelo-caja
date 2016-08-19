@@ -1,0 +1,21 @@
+
+
+
+
+.contenedor{
+	margin: 120px 60px 30.5px 60px;
+	width: 700px;
+	padding: 15px 20px 40px 100px;
+	border: 8px solid #9900ff;
+	background-color: #f9cb9c;
+}
+
+#texto{
+	font-size: 12px;
+	padding: 10px;
+	border: 1px dashed black;
+	background-color: white;
+	color: black;
+	text-align: center;
+
+}
